@@ -39,7 +39,8 @@ print("Following is the Breadth-First Search")
 bfs(visited, graph, '5') # function calling
 ### Output:
 
-![image](https://github.com/DhanalakshmiCSE/AI_Lab_2023-24/assets/119477832/eaa3f207-8ff5-4c3b-a8a1-9e12d7013cd8)
+![image](https://github.com/DhanalakshmiCSE/AI_Lab_2023-24/assets/119477832/bd430c2c-a364-4ec5-95ce-5240a829f312)
+
 
 
 ### Result:
