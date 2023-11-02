@@ -22,7 +22,7 @@ B is A*D.
 ```
 ### Output:
 
-
+![image](https://github.com/dineshmohan24102004/AI_Lab_2023-24/assets/119478475/7dc4b7e4-48ea-4a33-98cf-ab302fb754d7)
 
 ### Result:
 Thus the factorial of given number was found by logic programming. 
